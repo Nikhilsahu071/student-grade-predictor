@@ -19,3 +19,7 @@ A Machine Learning project that predicts student grades based on attendance and 
 - Grade Prediction
 - Grade Classification
 - Performance Analysis Chart
+
+## Project Screenshot
+
+![Student Grade Predictor](screenshots/dashboard.png)
